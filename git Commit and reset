@@ -1,0 +1,2 @@
+git reset HEAD~ -> Reset commit
+git log -> lists all commits.
